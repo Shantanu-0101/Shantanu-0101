@@ -22,17 +22,13 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shantanu&show_icons=true&theme=radical)
   
 
 ##  Fun Fact
 <details>
   <summary>Click to expand</summary>
-  
   -  I’m currently diving deeper into **ML & DL**  
-  - Goal: To become an **Rockstar Engineer**  
-  - Coffee + Code = Perfect combo  
+  - Goal: Solve real world problems 
 </details>
 
 
