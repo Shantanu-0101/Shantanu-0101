@@ -27,8 +27,8 @@
 ##  Fun Fact
 <details>
   <summary>Click to expand</summary>
-  -  I’m currently diving deeper into **ML & DL**  
-  - Goal: Solve real world problems 
+  -  I know why you're here :) 
+   
 </details>
 
 
