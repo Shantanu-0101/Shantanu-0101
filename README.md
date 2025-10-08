@@ -3,7 +3,7 @@
 - 🔭 Currently working at Pai Kane Group as an AI/ML intern.
 - 🗿 Learning Deep Learning 
 - 💡 Interested in Web3
-- ⭐ Hoping for your Star 
+- ⭐ Hoping for your Star.
 - 📫 Reach me at: [shantanupanchal.dev@gmail.com](#)
 
 
