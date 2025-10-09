@@ -1,4 +1,4 @@
-#  Hi, I'm Shantanu...
+#  Hi, I'm Shantanu..
 
 - 🔭 Currently working at Pai Kane Group as an AI/ML intern.
 - 🗿 Learning Deep Learning
