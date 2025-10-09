@@ -1,7 +1,7 @@
-#  Hi, I'm Shantanu..
+#  Hi, I'm Shantanu...
 
 - 🔭 Currently working at Pai Kane Group as an AI/ML intern.
-- 🗿 Learning Deep Learning
+- 🗿 Learning Deep Learning.
 - 💡 Interested in Web3.
 - ⭐ Hoping for your Star.
 - 📫 Reach me at: [shantanupanchal.dev@gmail.com](#)
