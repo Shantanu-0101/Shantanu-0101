@@ -26,7 +26,7 @@
 ##  Fun Fact
 <details>
   <summary>Click here to expand</summary>
-  -  You will only see ML-related content here. :)
+  -  You will only see ML-related content here... :)
    
 </details>
 
