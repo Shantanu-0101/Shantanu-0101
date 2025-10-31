@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Shaan77](https://hashnode.com/@Shaan77)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning  :)**
 
 - 📫 How to reach me **shantanupanchal.dev@gamil.com**
 
