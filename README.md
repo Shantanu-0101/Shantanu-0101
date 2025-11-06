@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an intern at **Pai Kane Group**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning...!**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
