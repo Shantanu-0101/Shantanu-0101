@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning...!**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects.**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Shaan77](https://hashnode.com/@Shaan77)
 
