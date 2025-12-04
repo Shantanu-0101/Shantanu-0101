@@ -37,6 +37,4 @@
 * Data Analysis: Pandas | Numpy 
 * Development: Streamlit | FastAPI  
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-0101&" alt="shantanu-0101" /></p>
