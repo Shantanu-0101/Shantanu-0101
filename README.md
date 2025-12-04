@@ -35,6 +35,7 @@
 * Frameworks: Tensorflow | Keras | Scikit-Learn 
 * Visualisation: Matplotlib | Seaborn
 * Data Analysis: Pandas | Numpy 
-* Development: Streamlit | FastAPI  
+* Development: Streamlit | FastAPI
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
