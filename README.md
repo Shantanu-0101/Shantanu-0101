@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **AI related stuff...!**
 
-- 📫 How to reach me **shantanupanchal.dev@gamil.com**
+- 📫 How to reach me: **shantanupanchal.dev@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
