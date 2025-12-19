@@ -36,4 +36,5 @@
 * Visualisation: Matplotlib | Seaborn
 * Data Analysis: Pandas | Numpy 
 * Development: Streamlit | FastAPI
+* Data Automation: Requests, BeautifulSoup, Selenium, Scrapy
 
