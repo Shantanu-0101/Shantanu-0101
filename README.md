@@ -35,6 +35,6 @@
 * Frameworks: Tensorflow | Keras | Scikit-Learn 
 * Visualisation: Matplotlib | Seaborn
 * Data Analysis: Pandas | Numpy 
-* Development: Streamlit | FastAPI
+* Development: Streamlit | FastAPI | Docker
 * Data Automation: Requests, BeautifulSoup, Selenium, Scrapy
 
