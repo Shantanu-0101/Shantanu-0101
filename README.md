@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently finding work opportunities to get real-world Experience
 
-- 🌱 I’m currently learning **Deep Learning.**
+- 🌱 I’m currently diving into **Deep Learning.**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects.**
 
