@@ -29,7 +29,7 @@
 
 * Programming: Python | SQL | JavaScript | C
 * Database: MySQL 
-* Technologies: Machine Learning | Deep Learning  
+* Technologies: Machine Learning | Deep Learning  | NLP | Gen AI | Agentic AI
 * Cloud: AWS SageMaker 
 * Version Control: GIT | GitHub
 * Frameworks: Tensorflow | Keras | Scikit-Learn | Pytorch | Keras
