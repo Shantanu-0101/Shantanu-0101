@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaanxeng" target="blank"><img src="https://img.shields.io/twitter/follow/shaanxeng?logo=twitter&style=for-the-badge" alt="shaanxeng" /></a> </p>
 
-- 🔭 I’m currently finding work opportunities to get real-world Experience
+- 🔭 I really enjoy building cool stuffs
 
 - 🌱 I worked with a company as an ML intern
 
