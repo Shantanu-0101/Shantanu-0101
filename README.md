@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaanxeng" target="blank"><img src="https://img.shields.io/twitter/follow/shaanxeng?logo=twitter&style=for-the-badge" alt="shaanxeng" /></a> </p>
 
-- 🔭 I really enjoy building cool stuffs
+- 🔭 Diving into NLP, Gen AI, and Agentic AI
 
 - 🌱 I worked with a company as an ML intern
 
