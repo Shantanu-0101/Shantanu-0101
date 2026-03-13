@@ -32,9 +32,9 @@
 * Technologies: Machine Learning | Deep Learning  | NLP | Gen AI | Agentic AI
 * Cloud: AWS SageMaker 
 * Version Control: GIT | GitHub
-* Frameworks: Tensorflow | Keras | Scikit-Learn | Pytorch | Keras
+* Frameworks: Tensorflow | Keras | Scikit-Learn | Pytorch |
 * Visualisation: Matplotlib | Seaborn
 * Data Analysis: Pandas | Numpy 
 * Development: Streamlit | FastAPI | Docker | 
-* Data Automation: Requests, BeautifulSoup, Selenium, Scrapy
+* Data Automation: Requests, BeautifulSoup, Selenium, Scrapy |
 
