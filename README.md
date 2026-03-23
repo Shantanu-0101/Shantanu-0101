@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shaanxeng" target="blank"><img src="https://img.shields.io/twitter/follow/shaanxeng?logo=twitter&style=for-the-badge" alt="shaanxeng" /></a> </p>
 
-- 🔭 Diving into NLP, Gen AI, and Agentic AI
+- 🔭 Diving into NLP, Gen AI, and Agentic AI and More
 
 - 🌱 I worked with a company as an ML intern
 
