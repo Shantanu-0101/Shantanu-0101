@@ -1,25 +1,38 @@
 <h1 align="center">Hey👋, I'm Shantanu...</h1>
 <h2 align="center">A Passionate Machine Learning Engineer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu-0101&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu-0101" /> </p>
+class AnshMNSoni:
+    def __init__(self):
+        self.name = "Ansh Soni"
+        self.role = "Backend Developer | Software Engineer"
+        self.location = "India 🇮🇳"
+        self.education = "Computer Science Engineering"
+        self.tech_stack = {
+            "languages": ["Python", "C++", "SQL"],
+            "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
+            "quantum": ["Qiskit"],
+            "devops": ["Docker", "Linux", "Git"],
+            "tools": ["Postman", "VSCode"]
+        }
+        self.currently_exploring = ["System Design", "AI/ML", "Quantum Computing"]
+        self.current_projects = [
+            "PyShell - Advanced Python Shell",
+            "Smart Career Recommendation System",
+            "eSevak - Bridging NGOs and Societies",
+            "QuaSim - Quantum Simulation Platform"
+        ]
+        self.achievements = {
+            "Finalist": "NASA Space App Challenge Hackathon",
+            "Scholar": "Reliance Foundation Undergraduate Scholar",
+            "Projects": "10+ Live Applications",
+            "Open Source": "Active Contributor"
+        }
+    
+    def connect(self):
+        print("Thanks for visiting! Let's build something amazing together.")
 
-<p align="left"> <a href="https://twitter.com/shaanxeng" target="blank"><img src="https://img.shields.io/twitter/follow/shaanxeng?logo=twitter&style=for-the-badge" alt="shaanxeng" /></a> </p>
-
-- 🔭 Diving into NLP, Gen AI, and Agentic AI and More
-
-- 🌱 I worked with a company as an ML intern
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects.**
-
-- 📝 I regularly write articles on [https://hashnode.com/@Shaan77](https://hashnode.com/@Shaan77)
-
-- 💬 Ask me about **Machine Learning...!**
-
-- 📫 How to reach me: **shantanupanchal.dev@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shaanxeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaanxeng" height="30" width="40" /></a>
+me = AnshMNSoni()
+me.connect()generator/master/src/images/icons/Social/twitter.svg" alt="shaanxeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-panchal-329973315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-panchal-329973315/" height="30" width="40" /></a>
 </p>
 
