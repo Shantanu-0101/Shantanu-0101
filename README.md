@@ -1,4 +1,5 @@
-
+# Hi I'm Shantanu..
+## Exploring the world of infinite possibilities.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shantanupanchal01) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shantanupanchal.dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shaanxeng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shantanupanchal.dev@gmail.com) 
 
