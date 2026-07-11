@@ -13,14 +13,11 @@
   <a href="mailto:shantanupanchal.dev@gmail.com" target="_blank">email</a>
 </p>
 
-<p align="center">
- <img alt="Github" src="https://visitor-badge.laobi.icu/badge?page_id=Shantanu-0101.visitor-badge" />
-</p>
 
 
 ## My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,docker,postgres,tensorflow,mongodb,firebase,git,github,gcp,azure,notion,react,nodejs,vercel,postman,bootstrap,html,css,sass,)]
+[![My Skills](https://skillicons.dev/iconsi=js,ts,python,docker,postgres,tensorflow,mongodb,firebase,git,github,gcp,azure,notion,react,nodejs,vercel,postman,bootstrap,html,css,sass,)]
 
 
 ### ✍️ Random Dev Quote :
