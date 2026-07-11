@@ -20,7 +20,7 @@
 
 ## My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,docker,postgres,sql,keras,tensorflow,mongodb,firebase,git,github,gcp,azure,notion,react,nodejs,vercel,postman,bootstrap,html,css,sass,)](https://kanakkholwal.eu.org)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,docker,postgres,tensorflow,mongodb,firebase,git,github,gcp,azure,notion,reactnative,nodejs,vercel,postman,bootstrap,html,css,sass,)]
 
 
 ### ✍️ Random Dev Quote :
