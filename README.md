@@ -9,7 +9,7 @@
   <a href="https://x.com/Shaanxeng" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/shantanupanchal01/" target="_blank">linkedin</a> •
   <a href="https://github.com/Shantanu-0101" target="_blank">github</a> •
-  <a href="https://medium.com/@kanakkholwal" target="_blank">medium</a> •
+  <a href="https://medium.com/@shantanupanchal.dev" target="_blank">medium</a> •
   <a href="mailto:shantanupanchal.dev@gmail.com" target="_blank">email</a>
 </p>
 <p align="center">
