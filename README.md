@@ -17,7 +17,7 @@
 
 ## My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,sklearn,selenium,docker,fastapi,flask,ai,mysql,netlify,opencv,py,sqlite,postgres,git,github,gcp,azure,notion,react,nodejs,vercel,postman,figma,bootstrap,html,css,sass,)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,sklearn,selenium,docker,fastapi,flask,ai,mysql,netlify,opencv,py,sqlite,postgres,git,github,gcp,azure,notion,react,nodejs,vercel,postman,figma,bootstrap,html,css,sass,)
 
 
 ### ✍️ Random Dev Quote :
