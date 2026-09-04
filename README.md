@@ -1,5 +1,5 @@
-<h1 align="center">Hi..! I'm
-<b>Shantanu..</b>
+<h1 align="center">Hi, I'm
+<b>Shantanu...!</b>
 </h1>
 
 
